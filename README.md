@@ -26,3 +26,5 @@ https://github.com/zebra-spots
 Some more notes I've been working on:
 
 https://app.gitbook.com/s/1EKQQgi5cx4xwEytzJwF/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zebra-spots)](https://github.com/anuraghazra/github-readme-stats)
