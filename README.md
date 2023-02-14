@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is where I keep the code I have written as I learn and complete projects. 
+
+I have also begun a writeup section where I keep some notes for tryhackme and other similar sites.
