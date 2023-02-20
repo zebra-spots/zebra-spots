@@ -29,5 +29,5 @@ Please check /write-ups
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zebra-spots)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zebra-spots&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zebra-spots&exclude_repo=dataanalysis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
