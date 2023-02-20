@@ -21,7 +21,7 @@ I have also begun a writeup section where I keep some notes for tryhackme and ot
 
 My tryhackme profile:
 
-https://github.com/zebra-spots
+https://tryhackme.com/p/Zebra.Spots
 
 Some more notes I've been working on:
 
