@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is where I keep the code I have written as I learn and complete projects. 
+This is where I keep the code I have written as I learn and complete projects. I also keep my useful commands for powershell/ bash as I improve my scripting. 
 
 I have also begun a writeup section where I keep some notes for tryhackme and other similar sites.
 
