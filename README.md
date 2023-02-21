@@ -31,3 +31,8 @@ Please check /write-ups
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zebra-spots&exclude_repo=dataanalysis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Where to find me:
+
+[<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/zebra-spots) 
+[<img src='https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen' alt='CodePen' height='40'>](https://codepen.io/zebra-spots) 
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkdIn' height='40'>](https://www.linkedin.com/in/c-s-james/)
